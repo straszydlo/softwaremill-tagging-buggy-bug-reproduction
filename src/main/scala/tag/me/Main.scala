@@ -1,5 +1,3 @@
-package tag.me
-
 import com.softwaremill.tagging.*
 
 trait Foo
